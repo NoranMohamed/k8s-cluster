@@ -1,0 +1,6 @@
+*.retry
+.ansible/
+__pycache__/
+*.pyc
+/tmp/k8s_join_command.sh
+inventory.ini
